@@ -103,3 +103,23 @@ body{
     text-decoration:none;
     margin-right:8px;
 }
+
+.exp-item{
+    margin-top:18px;
+}
+
+.exp-item ul{
+    margin-top:6px;
+}
+
+.exp-item li{
+    margin-bottom:4px;
+}
+
+.section{
+    margin-top:4px;
+}
+
+.section:last-of-type{
+    margin-bottom:80px;
+}

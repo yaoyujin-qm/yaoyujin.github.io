@@ -1,7 +1,16 @@
-body{
+/* body{
     margin:0;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background:#f4f4f4;
+    color:#222;
+} */
+
+body{
+    margin:0;
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size:15px;
+    line-height:1.7;
+    background:#ffffff;
     color:#222;
 }
 

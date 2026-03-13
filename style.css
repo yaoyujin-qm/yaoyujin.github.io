@@ -1,0 +1,40 @@
+body {
+font-family: Arial;
+background:#fafafa;
+margin:0;
+}
+
+.container{
+display:flex;
+max-width:1000px;
+margin:auto;
+padding:40px;
+}
+
+.profile{
+width:280px;
+text-align:center;
+}
+
+.avatar{
+width:200px;
+border-radius:50%;
+margin-bottom:20px;
+}
+
+.links a{
+display:block;
+margin:8px;
+color:#3366cc;
+text-decoration:none;
+}
+
+.content{
+flex:1;
+padding-left:40px;
+}
+
+h2{
+border-bottom:1px solid #ddd;
+padding-bottom:6px;
+}
